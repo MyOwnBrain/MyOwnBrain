@@ -5,43 +5,43 @@
 
 ### 🧰 Languages & Tools & Software
 
-<a href="https://wikipedia.org/wiki/JavaScript">
-    <img width="48px" style='padding-right:8px;' src="./imgs/javascript.svg" />
+<a href="https://wikipedia.org/wiki/JavaScript" style='padding-right:8px;'>
+    <img width="48px" src="./imgs/javascript.svg" />
 </a>
-<a href="https://www.typescriptlang.org/">
-    <img width="48px" style='padding-right:8px;' src="./imgs/typescript.svg" />
+<a href="https://www.typescriptlang.org/" style='padding-right:8px;'>
+    <img width="48px" src="./imgs/typescript.svg" />
 </a>
-<a href="https://nextjs.org/">
-    <img width="48px" style='padding-right:8px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+<a href="https://nextjs.org/" style='padding-right:8px;'>
+    <img width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
 </a>
-<a href="https://react.dev/">
-    <img width="48px" style='padding-right:8px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<a href="https://react.dev/" style='padding-right:8px;'>
+    <img width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 </a>
-<a href="https://tailwindcss.com/">
-    <img width="48px" style='padding-right:8px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+<a href="https://tailwindcss.com/" style='padding-right:8px;'>
+    <img width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 </a>
-<a href="https://ui.shadcn.com/">
-    <img width="48px" style='padding-right:8px;' src="./imgs/shadcnui.png" />
+<a href="https://ui.shadcn.com/" style='padding-right:8px;'>
+    <img width="48px" src="./imgs/shadcnui.png" />
 </a>
-<a href="https://nyxbui.design/">
-    <img width="48px" style='padding-right:8px;' src="./imgs/nyxbui.png" />
+<a href="https://nyxbui.design/" style='padding-right:8px;'>
+    <img width="48px" src="./imgs/nyxbui.png" />
 </a>
-<a href="https://bun.sh/">
-    <img width="48px" style='padding-right:8px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" />
+<a href="https://bun.sh/" style='padding-right:8px;'>
+    <img width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" />
 </a>
-<a href="https://www.docker.com/">
-    <img width="48px" style='padding-right:8px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+<a href="https://www.docker.com/" style='padding-right:8px;'>
+    <img width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
 </a>
-<a href="https://code.visualstudio.com/">
-    <img width="48px" style='padding-right:8px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+<a href="https://code.visualstudio.com/" style='padding-right:8px;'>
+    <img width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 </a>
-<a href="https://www.notion.so/">
-    <img width="48px" style='padding-right:8px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />
+<a href="https://www.notion.so/" style='padding-right:8px;'>
+    <img width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />
 </a>
-<a href="https://www.figma.com/">
-    <img width="48px" style='padding-right:8px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+<a href="https://www.figma.com/" style='padding-right:8px;'>
+    <img width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 </a>
-<a href="https://obsidian.md/">
+<a href="https://obsidian.md/" style='padding-right:8px;'>
     <img width="48px" src="./imgs/obsidian.png" />
 </a>
 <br />
