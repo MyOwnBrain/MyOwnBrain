@@ -5,19 +5,19 @@
 
 ### 🧰 Languages & Tools & Software
 
-<img align='left' width="48px" style='padding-right:0.5rem;' src="./imgs/javascript.svg" />
-<img align='left' width="48px" style='padding-right:0.5rem;' src="./imgs/typescript.svg" />
-<img align='left' width="48px" style='padding-right:0.5rem;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-<img align='left' width="48px" style='padding-right:0.5rem;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img align='left' width="48px" style='padding-right:0.5rem;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-<img align='left' width="48px" style='padding-right:0.5rem;' src="./imgs/shadcnui.png" />
-<img align='left' width="48px" style='padding-right:0.5rem;' src="./imgs/nyxbui.png" />
-<img align='left' width="48px" style='padding-right:0.5rem;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" />
-<img align='left' width="48px" style='padding-right:0.5rem;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
-<img align='left' width="48px" style='padding-right:0.5rem;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-<img align='left' width="48px" style='padding-right:0.5rem;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />
-<img align='left' width="48px" style='padding-right:0.5rem;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-<img align='left' width="48px" style='padding-right:0.5rem;' src="./imgs/obsidian.png" />
+<img align='left' width="48px" style='padding-right:8px;' src="./imgs/javascript.svg" />
+<img align='left' width="48px" style='padding-right:8px;' src="./imgs/typescript.svg" />
+<img align='left' width="48px" style='padding-right:8px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+<img align='left' width="48px" style='padding-right:8px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img align='left' width="48px" style='padding-right:8px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+<img align='left' width="48px" style='padding-right:8px;' src="./imgs/shadcnui.png" />
+<img align='left' width="48px" style='padding-right:8px;' src="./imgs/nyxbui.png" />
+<img align='left' width="48px" style='padding-right:8px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" />
+<img align='left' width="48px" style='padding-right:8px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+<img align='left' width="48px" style='padding-right:8px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+<img align='left' width="48px" style='padding-right:8px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />
+<img align='left' width="48px" style='padding-right:8px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+<img align='left' width="48px" style='padding-right:8px;' src="./imgs/obsidian.png" />
 <br />
 
 _and more ..._
