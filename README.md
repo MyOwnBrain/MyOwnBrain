@@ -5,7 +5,7 @@
 
 ### 🧰 Languages & Tools & Software
 
-<div style="display: flex; gap: 1rem">
+<div>
     <a href="https://wikipedia.org/wiki/JavaScript">
         <img width="48" style="padding-right:16px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
     </a>
