@@ -1,7 +1,10 @@
-<h1 style='display: flex; jsutify: center; align-items: center; gap: 1rem;'>
-    <img width='64' style='border-radius: 1.5rem; border: #262626 solid 1px;' src='https://avatars.githubusercontent.com/u/81764985?v=4' />
-    <span style='font-size: 3rem; font-weight: 700;'>MyOwnbrain</span>
-</h1>
+<div align='center'>
+
+<img width='320px' src='./imgs/title.png' />
+
+</div>
+
+---
 
 ### 🧰 Languages & Tools & Software
 
