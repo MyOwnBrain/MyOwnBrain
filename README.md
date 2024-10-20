@@ -45,7 +45,7 @@
     <img align='left' width="48" src="./imgs/obsidian.png" />
 </a>
 
-_and much more ..._
+_and more ..._
 
 ### 📊 Public GitHub Stats
 
