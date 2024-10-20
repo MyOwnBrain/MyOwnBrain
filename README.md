@@ -5,6 +5,7 @@
 
 ### 🧰 Languages & Tools & Software
 
+<div>
 <a href="https://wikipedia.org/wiki/JavaScript">
     <img align='left' width="48" style='padding-right: 8px;' src="./imgs/javascript.svg" />
 </a>
@@ -44,6 +45,7 @@
 <a href="https://obsidian.md/">
     <img align='left' width="48" src="./imgs/obsidian.png" />
 </a>
+</div>
 
 _and more ..._
 
