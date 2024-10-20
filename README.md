@@ -5,47 +5,46 @@
 
 ### 🧰 Languages & Tools & Software
 
-<div>
 <a href="https://wikipedia.org/wiki/JavaScript">
-    <img align='left' width="48" style='padding-right: 8px;' src="./imgs/javascript.svg" />
+    <img align='left' width="48px" style='padding-right: 8px;' src="./imgs/javascript.svg" />
 </a>
 <a href="https://www.typescriptlang.org/">
-    <img align='left' width="48" style='padding-right: 8px;' src="./imgs/typescript.svg" />
+    <img align='left' width="48px" style='padding-right: 8px;' src="./imgs/typescript.svg" />
 </a>
 <a href="https://nextjs.org/">
-    <img align='left' width="48" style='padding-right: 8px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+    <img align='left' width="48px" style='padding-right: 8px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
 </a>
 <a href="https://react.dev/">
-    <img align='left' width="48" style='padding-right: 8px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+    <img align='left' width="48px" style='padding-right: 8px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 </a>
 <a href="https://tailwindcss.com/">
-    <img align='left' width="48" style='padding-right: 8px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+    <img align='left' width="48px" style='padding-right: 8px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 </a>
 <a href="https://ui.shadcn.com/">
-    <img align='left' width="48" style='padding-right: 8px;' src="./imgs/shadcnui.png" />
+    <img align='left' width="48px" style='padding-right: 8px;' src="./imgs/shadcnui.png" />
 </a>
 <a href="https://nyxbui.design/">
-    <img align='left' width="48" style='padding-right: 8px;' src="./imgs/nyxbui.png" />
+    <img align='left' width="48px" style='padding-right: 8px;' src="./imgs/nyxbui.png" />
 </a>
 <a href="https://bun.sh/">
-    <img align='left' width="48" style='padding-right: 8px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" />
+    <img align='left' width="48px" style='padding-right: 8px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" />
 </a>
 <a href="https://www.docker.com/">
-    <img align='left' width="48" style='padding-right: 8px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+    <img align='left' width="48px" style='padding-right: 8px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
 </a>
 <a href="https://code.visualstudio.com/">
-    <img align='left' width="48" style='padding-right: 8px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+    <img align='left' width="48px" style='padding-right: 8px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 </a>
 <a href="https://www.notion.so/">
-    <img align='left' width="48" style='padding-right: 8px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />
+    <img align='left' width="48px" style='padding-right: 8px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />
 </a>
 <a href="https://www.figma.com/">
-    <img align='left' width="48" style='padding-right: 8px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+    <img align='left' width="48px" style='padding-right: 8px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 </a>
 <a href="https://obsidian.md/">
-    <img align='left' width="48" src="./imgs/obsidian.png" />
+    <img align='left' width="48px" src="./imgs/obsidian.png" />
 </a>
-</div>
+<br />
 
 _and more ..._
 
