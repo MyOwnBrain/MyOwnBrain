@@ -1,6 +1,6 @@
 <div align='center'>
 
-<img width='320px' src='./imgs/title.png' />
+<img width='640px' src='./imgs/title.png' />
 
 </div>
 
