@@ -44,14 +44,17 @@
 <a href="https://obsidian.md/">
     <img align='left' width="32px" src="./imgs/obsidian.png" />
 </a>
+<br />
 
-_and more ..._
+#
 
 ### 📊 Public GitHub Stats
 
 > At the moment I mainly work on private projects, which are not tracked here.
 
 [![MyOwnBrain's Public GitHub Stats](https://github-readme-stats.vercel.app/api?username=myownbrain&bg_color=37,040404,121212,040404&border_color=262626&title_color=4AD295&text_color=E0E0E0&icon_color=4AD295&border_radius=24&hide_title=false&show_icons=true&include_all_commits=true&custom_title=MyOwnBrain's%20Public%20GitHub%20Stats&)](https://github.com/MyOwnBrain)
+
+#
 
 ### 📱 Social Media
 
