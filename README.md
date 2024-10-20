@@ -7,7 +7,7 @@
 
 <div style="display: flex; gap: 1rem">
     <a href="https://wikipedia.org/wiki/JavaScript">
-        <img width="48" style="border-radius:1rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+        <img width="48" style="border-radius:16px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
     </a>
     <a href="https://www.typescriptlang.org/">
         <img width="48" style="border-radius: 1rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
