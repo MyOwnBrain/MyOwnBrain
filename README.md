@@ -65,7 +65,3 @@
 [<img height='48' style='border-radius: 1rem' src="./imgs/TikTok-Badge.svg" />](https://www.tiktok.com/@myownbrain37/)
 
 Feel free to `✉️contact` me _(please only)_ via [Instagram](https://www.instagram.com/piano.niklas) private message.
-
-#
-
-<div style='display: flex; justify-content: center;'>Flexbox?</div>
