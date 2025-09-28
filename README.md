@@ -50,7 +50,7 @@
 
 > At the moment I mainly work on private projects, which are not tracked here.
 
-[![MyOwnBrain's Public GitHub Stats](https://github-readme-stats.vercel.app/api?username=myownbrain&bg_color=040404A0&border_color=3D444D&title_color=4AD295&text_color=E0E0E0&icon_color=4AD295&border_radius=16&hide_title=false&show_icons=true&include_all_commits=true&custom_title=MyOwnBrain's%20Public%20GitHub%20Stats&)](https://github.com/MyOwnBrain)
+[![MyOwnBrain's Public GitHub Stats](https://github-readme-stats.vercel.app/api?username=myownbrain&bg_color=010409&border_color=3D444D&title_color=1f6feb&text_color=E0E0E0&icon_color=1f6feb&border_radius=16&hide_title=false&show_icons=true&include_all_commits=true&custom_title=MyOwnBrain's%20Public%20GitHub%20Stats&)](https://github.com/MyOwnBrain)
 
 #
 
