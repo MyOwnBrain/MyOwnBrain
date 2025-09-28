@@ -1,7 +1,5 @@
 <div align='center'>
-
-<img width='640px' src='./imgs/title.png' />
-
+    <img width='640px' src='./imgs/title.avif' />
 </div>
 
 ---
@@ -24,10 +22,7 @@
     <img align='left' width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 </a>
 <a href="https://ui.shadcn.com/">
-    <img align='left' width="36px" src="./imgs/shadcnui.png" />
-</a>
-<a href="https://nyxbui.design/">
-    <img align='left' width="36px" src="./imgs/nyxbui.png" />
+    <img align='left' width="36px" src="./imgs/shadcnui.svg" />
 </a>
 <a href="https://bun.sh/">
     <img align='left' width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" />
@@ -45,7 +40,7 @@
     <img align='left' width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 </a>
 <a href="https://obsidian.md/">
-    <img align='left' width="36px" src="./imgs/obsidian.png" />
+    <img align='left' width="36px" src="./imgs/obsidian.avif" />
 </a>
 <br />
 
@@ -55,13 +50,13 @@
 
 > At the moment I mainly work on private projects, which are not tracked here.
 
-[![MyOwnBrain's Public GitHub Stats](https://github-readme-stats.vercel.app/api?username=myownbrain&bg_color=37,040404,121212,040404&border_color=262626&title_color=4AD295&text_color=E0E0E0&icon_color=4AD295&border_radius=24&hide_title=false&show_icons=true&include_all_commits=true&custom_title=MyOwnBrain's%20Public%20GitHub%20Stats&)](https://github.com/MyOwnBrain)
+[![MyOwnBrain's Public GitHub Stats](https://github-readme-stats.vercel.app/api?username=myownbrain&bg_color=040404A0&border_color=3D444D&title_color=4AD295&text_color=E0E0E0&icon_color=4AD295&border_radius=16&hide_title=false&show_icons=true&include_all_commits=true&custom_title=MyOwnBrain's%20Public%20GitHub%20Stats&)](https://github.com/MyOwnBrain)
 
 #
 
 ### 📱 Social Media
 
-[<img height='48' style='border-radius: 1rem' src="./imgs/Instagram-Badge.svg" />](https://www.instagram.com/piano.niklas/)
-[<img height='48' style='border-radius: 1rem' src="./imgs/TikTok-Badge.svg" />](https://www.tiktok.com/@myownbrain37/)
+[<img src="./imgs/Instagram-Badge.svg" />](https://www.instagram.com/piano.niklas/)
+[<img src="./imgs/TikTok-Badge.svg" />](https://www.tiktok.com/@myownbrain37/)
 
-Feel free to `✉️contact` me _(please only)_ via [Instagram](https://www.instagram.com/piano.niklas) private message.
+Feel free to `✉️contact` me via [Instagram](https://www.instagram.com/piano.niklas) private message.
