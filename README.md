@@ -1,8 +1,12 @@
 <div align='center'>
-    <img width='640px' src='./imgs/title.avif' />
+    <a href="https://www.myownbrain.de">
+        <img width='640px' src='./imgs/title.avif' />
+    </a>
 </div>
 
 ---
+
+<br />
 
 ### 🧰 Languages & Tools & Software
 
@@ -42,17 +46,18 @@
 <a href="https://obsidian.md/">
     <img align='left' width="36px" src="./imgs/obsidian.avif" />
 </a>
-<br />
 
-#
+<br />
+<br />
+<br />
 
 ### 📊 Public GitHub Stats
 
 > At the moment I mainly work on private projects, which are not tracked here.
 
-[![MyOwnBrain's Public GitHub Stats](https://github-readme-stats.vercel.app/api?username=myownbrain&bg_color=010409&border_color=3D444D&title_color=1f6feb&text_color=E0E0E0&icon_color=1f6feb&border_radius=16&hide_title=false&show_icons=true&include_all_commits=true&custom_title=MyOwnBrain's%20Public%20GitHub%20Stats&)](https://github.com/MyOwnBrain)
+[![MyOwnBrain's Public GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=myownbrain&bg_color=010409&border_color=3D444D&title_color=1f6feb&text_color=E0E0E0&icon_color=1f6feb&border_radius=16&hide_title=false&show_icons=true&include_all_commits=true&custom_title=MyOwnBrain's%20Public%20GitHub%20Stats&)](https://github.com/MyOwnBrain)
 
-#
+<br />
 
 ### 📱 Social Media
 
@@ -60,3 +65,14 @@
 [<img src="./imgs/TikTok-Badge.svg" />](https://www.tiktok.com/@myownbrain37/)
 
 Feel free to `✉️contact` me via [Instagram](https://www.instagram.com/piano.niklas) private message.
+
+<br />
+
+<div align='center'>
+    <h3>
+        Website:
+        <a href="https://www.myownbrain.de">
+            🔗myownbrain.de
+        </a>
+    </h3>
+</div>
